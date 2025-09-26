@@ -69,5 +69,3 @@ SELECT comments FROM user_tab_comments WHERE table_name = 'DEPT' or table_name =
 alter table EMP drop column First_Name;
 
 desc EMP;
-
-
